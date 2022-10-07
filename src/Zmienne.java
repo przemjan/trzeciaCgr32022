@@ -33,5 +33,8 @@ public class Zmienne {
 
         char znak = '#';
 
+        //    https://github.com/przemjan/trzeciaCgr32022
+        // ubuckp/public/janisz
+
     }
 }
